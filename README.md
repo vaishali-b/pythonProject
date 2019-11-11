@@ -1,4 +1,6 @@
 # pythonProject
+The automationScript opens the Amazon website in the chrome browser, signs in, searches for a product, applies filter,views the results and logs out from the site.
+The script executes without manual intervention and logs the execution information on to a log file.
 For testing code -  download file from repo, chromedriver.
 Update chromedriver path in $PATH variable and also in the automationScript file.
 Update user credentials in the automationScript file.
